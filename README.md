@@ -12,10 +12,10 @@ We aim to provide actionable insights to help animal shelters reduce the crowded
 ### Analyses
 - [x] Data collection and wrangle @ Zuojun Zheng
 - [x] Analysis 1: In-Out reasons @ Chujie Cai
-- [x] Analysis 2: [Crowdedness @ Mavis Wang](https://github.com/mavis-wang/US-Animal-Shelter-Intake-Geo-Analysis-2020)
-- [x] Analysis 3: [Seasonal Trend @ Mavis Wang](https://github.com/mavis-wang/US-Animal-Shelter-Intake-Geo-Analysis-2020)
+- [x] Analysis 2: Crowdedness @ Mavis Wang
+- [x] Analysis 3: Seasonal Trend @ Mavis Wang
 - [x] Analysis 4: Essential Features of Dog/Cat @ Zuojun Zheng
-- [x] Analysis 5.1: Intakes and Breeders Correlation / Visualization @ Mavis Wang
+- [x] Analysis 5.1: Intakes and Breeders Correlation @ Mavis Wang
 - [x] Analysis 5.2: Adoptions and Education Correlation @ Chujie Cai
 
 ### Results [Slides](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master/blob/main/G7_230_Shelter%20Analysis_Slide.pdf) | [Paper](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master/blob/main/Group7_P1_DATA230%20Dashbord_Paper.pdf)
